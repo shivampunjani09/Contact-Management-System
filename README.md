@@ -106,7 +106,7 @@ Display type: 	VGA
 
 
 
-SW configurations:
+Software configurations:
 
 OS: Windows 98
 
